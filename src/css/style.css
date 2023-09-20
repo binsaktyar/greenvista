@@ -231,7 +231,7 @@
 
     .pembungkus-card{
       display: flex;
-      gap: 50px;
+      gap: 100px;
       width:100%;
       height:100%;
       /* background-color: red; */
