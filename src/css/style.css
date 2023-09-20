@@ -302,7 +302,7 @@
     height: 500px;
     border-radius: 16px;
     position: relative;
-    width: 90%;
+    width: 250px;
     display: flex;
     align-items: flex-end; 
     justify-content : center;
@@ -332,10 +332,7 @@
     overflow-y: hidden;
   }
 
-  .property-bawah{
-    width:unset;
-    overflow-x: scroll !important;
-  }
+ 
 
   
 }
