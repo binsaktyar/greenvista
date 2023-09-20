@@ -245,7 +245,7 @@
   }
 
   .property-bawah{
-    width:200vh;
+    /* width:200vh; */
     overflow-x: scroll;
   }
 }
@@ -333,6 +333,7 @@
   }
 
   .property-bawah{
+    width:unset;
     overflow-x: scroll !important;
   }
 
