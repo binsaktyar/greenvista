@@ -150,7 +150,8 @@
   align-items: center;
   height:80px;
   bottom: 10px; 
-  /* padding-right: 20px; */
+
+  padding-right: 10px;
   transition: background-color 0.3s ease;
 }
 
@@ -173,6 +174,7 @@
   background-color: var(--warna-kuning-mahal); /* Warna latar belakang */
   border-radius: 50%; /* Untuk membuatnya bulat */
   display: flex;
+  
   align-items: center;
   justify-content: center;
 }
